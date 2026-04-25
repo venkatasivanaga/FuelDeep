@@ -3,13 +3,13 @@
 </p>
 
 <!-- This is a comment. [![R-hub](https://github.com/venkatasivanaga/FuelDeep3D/.github/workflows/r.yml/badge.svg)](https://github.com/venkatasivanaga/FuelDeep3D/actions/workflows/rhub.yaml)  --> 
-# 
-# [![R-CMD-check](https://github.com/venkatasivanaga/FuelDeep3D/actions/workflows/r.yml/badge.svg?branch=main)](https://github.com/venkatasivanaga/FuelDeep3D/actions/workflows/r.yml)
-# [![CRAN](https://www.r-pkg.org/badges/version/FuelDeep3D)](https://cran.r-project.org/package=FuelDeep3D)
-# ![GitHub](https://img.shields.io/badge/GitHub-0.1.0-green.svg)
-# ![licence](https://img.shields.io/badge/Licence-GPL--3-blue.svg)
-# ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FuelDeep3D)
-# [![Build Status](https://app.travis-ci.com/venkatasivanaga/FuelDeep3D.svg?branch=main)](https://app.travis-ci.com/venkatasivanaga/FuelDeep3D)
+<!--
+[![R-CMD-check](https://github.com/venkatasivanaga/FuelDeep3D/actions/workflows/r.yml/badge.svg?branch=main)](https://github.com/venkatasivanaga/FuelDeep3D/actions/workflows/r.yml)
+[![CRAN](https://www.r-pkg.org/badges/version/FuelDeep3D)](https://cran.r-project.org/package=FuelDeep3D)
+![GitHub](https://img.shields.io/badge/GitHub-0.1.0-green.svg)
+![licence](https://img.shields.io/badge/Licence-GPL--3-blue.svg)
+![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FuelDeep3D)
+[![Build Status](https://app.travis-ci.com/venkatasivanaga/FuelDeep3D.svg?branch=main)](https://app.travis-ci.com/venkatasivanaga/FuelDeep3D)
 
 <!-- This is a comment. [![FuelDeep3D statusbadge](https://venkatasivanaga.dev/badges/FuelDeep3D)](https://venkatasivanaga.r-universe.dev/FuelDeep3D)  --> 
 
